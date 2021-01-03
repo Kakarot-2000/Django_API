@@ -1,5 +1,5 @@
 # Django_API
-Created a simple Api using DRF( Django Rest Framework ) to perform CRUD operations.
+Created a simple REST API using DRF( Django Rest Framework ) to perform CRUD operations.
 
 Ways to Access the API:
 - **Using request module in python** 
