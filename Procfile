@@ -1,1 +1,1 @@
-web: gunicorn app:article
+web: gunicorn medium_clone.wsgi
